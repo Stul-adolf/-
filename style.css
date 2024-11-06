@@ -1,0 +1,126 @@
+h1 {
+   text-align: center; */
+    font-size: 2cm;
+}
+h2 {
+    text-align: center;
+}
+p {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMxBpOHtREuh5myhzehfdoUEshkk6BB7kVQ&s);
+    width:100cm;
+    height: 101cm;
+}
+a {
+    color: aliceblue;
+    font-size:2cm;
+}
+.a2 {
+    color: black;
+    font-size: 1cm;
+    font-style: normal;
+}
+button {
+    background-color: black;
+    width: 10cm;
+    height: 10cm;
+}
+iframe {
+    width: 60%;
+    height: 20cm;
+    text-align: center;
+    rotate: x 10;
+}
+.class {
+    width: 10cm;
+    height: 10cm;
+    background-image: title="наггетс стоять ковбой" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/65caee30632c4c1488c3ad1de18d6c6e/embed?autospin=1&autostart=1&preload=1";
+}
+h2 {
+    font-size:xx-large;
+}
+.img2 {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+
+
+
+/*  Text3===========================================================================================*/
+
+
+
+
+
+
+.h3_3{
+    font-size: 1cm;
+}
+.body3 {
+    margin: 0;
+    padding: 0;
+}
+.bossDIV {
+    width: 90%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.map {
+    width: 50%;
+    padding: 20px;
+    
+}
+.map2 {
+    width: 50%;
+    padding: 20px;
+    
+}
+
+.mapIMG3 {
+    margin-right: 15px;
+}
+.a3 {
+    font-size: 20px;
+    color: black;
+}
+
+
+
+
+/*  Text4===========================================================================================*/
+
+.buttonStyle {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) ;
+    border: none;
+    cursor: pointer;
+    font-size: larger;
+
+}
+.h2Boo {
+    position: absolute;
+    top: 250px;;
+}
+
+/*  Gallery Text2 ==================================================================================*/
+
+.galleryText2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+.galleryItem {
+    border-radius: 20px;
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+}
+.galleryItem:hover{
+    transform: scale(1.5);
+    margin: auto 100px;
+}
